@@ -94,11 +94,6 @@ six==1.15.0
 soupsieve==2.3.1
 sqlparse==0.4.2
 static3==0.7.0
-tensorboard==2.6.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.6.2
-tensorflow-estimator==2.6.0
 termcolor==1.1.0
 terminado==0.12.1
 testpath==0.6.0
