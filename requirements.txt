@@ -99,7 +99,6 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.6.2
 tensorflow-estimator==2.6.0
-tensorflow-gpu==1.13.1
 termcolor==1.1.0
 terminado==0.12.1
 testpath==0.6.0
